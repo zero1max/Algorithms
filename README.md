@@ -1,5 +1,5 @@
 # Algoritms
-<img src="skrin.jpg" alt="skrin.jpg">
+<img src="img/skrin.jpg" alt="skrin.jpg">
 
 1. 5 ta butun son berilgan. Shu sonlar orasida nechta musbat va nechta manfiy, nechta nol raqami borligini aniqlovchi dastur tuzilgan.
 2. User tomonidan oyning raqami kiritilsa u qaysi faslga kirishini aniqlochi dastur tuzilgan.
